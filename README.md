@@ -1,1 +1,1 @@
-# Nifty-Banking-Stocks-Analytics
+# Nifty-IT-Stocks-Analytics
